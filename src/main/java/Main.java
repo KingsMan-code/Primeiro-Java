@@ -1,5 +1,5 @@
 public class Main {
     public static void main (String args[]) {
-        System.out.println("Do Back ao Front - Inscreva-se no Canal");;
+        System.out.println("Hello World!");;
     }
 }
